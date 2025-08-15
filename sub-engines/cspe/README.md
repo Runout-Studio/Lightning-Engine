@@ -10,6 +10,9 @@ Global Audio Processor for Lightning Engine.
 - [ ] Mixer
 - [ ] Voices and Channels
 - [ ] Simple Control (Volume, Pitch, Speed and more...)
+- [ ] Effect
+- [ ] Low latency
+- [ ] Low resource usage
 - [ ] Surround Sound
 
 Some feature will include in future.
