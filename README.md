@@ -19,7 +19,7 @@ To clone repossitory, you can do it by:\
 ## Our goal
 Our goal is to make the game engine that be accessible for beginners and high-skill programmers.\
 Our goal is including:
- - The engine with Sub-Engines as components that can use outside the engine for more specific usage
+ - The engine with sub-engine idea for effective debugging and easier organize.
  - Low resource usage with smart asset manager
  - C++ program language that easy to learn, with accessible functions
  - 2D with stylish, 3D with realism; depend on usage
@@ -40,5 +40,6 @@ This project is licensed under the **GNU Affero General Public License version 3
 
 You may use, copy, modify, and distribute the engine in accordance with the license terms.\
 Any modified versions that are distributed or made available over a network **must also be licensed under the AGPLv3**,\
-with source code made available to recipients.\
+with source code made available to recipients.
+
 See [LICENSE](LICENSE) for full terms.
