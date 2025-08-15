@@ -40,6 +40,7 @@ This project is licensed under the **GNU Affero General Public License version 3
 
 You may use, copy, modify, and distribute the engine in accordance with the license terms.\
 Any modified versions that are distributed or made available over a network **must also be licensed under the AGPLv3**,\
-with source code made available to recipients.
+with source code made available to recipients.\
+The license does not cover to any game within creation inside the game engine.
 
 See [LICENSE](LICENSE) for full terms.
