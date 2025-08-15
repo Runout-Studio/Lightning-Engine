@@ -30,7 +30,7 @@ Our goal is including:
 - [ ] Lightning Engine (Main engine, Editor)
 - [ ] Canvastist (Scene and Camera handler sub-engine)
 - [ ] ProPost2D (2D Post Process sub-engine)
-- [ ] Victory2D (Vector2D and Physic handler sub-engine)
+- [ ] Vectory2D (Vector2D and Physic handler sub-engine)
 - [ ] CSPE (Audio sub-engine)
 - [ ] Asset Manager
 > Subjects above may change in the future.
