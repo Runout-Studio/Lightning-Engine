@@ -2,7 +2,7 @@
 2D Physics Engine for Lightning Engine and Educational Perpose.
 
 > [!CAUTION]
-> During it being in-development, **Vectory2D** might not bring at stable build.\
+> During it being in-development, **Vectory2D** might not being on stable build.\
 > And the engine have not test anywhere else, Please proceed with caution.
 
 ## License
