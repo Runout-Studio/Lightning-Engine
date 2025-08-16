@@ -18,10 +18,22 @@ Global Audio Processor for Lightning Engine.
 Some feature will include in future.
  
 ## License
-This project is licensed under the **GNU Affero General Public License version 3.0**.
 
-You may use, copy, modify, and distribute the engine in accordance with the license terms.\
-Any modified versions that are distributed or made available over a network **must also be licensed under the AGPLv3**,\
-with source code made available to recipients.
+**Lightning Engine™**; The Game Engine include but not limit for education and entertainment\
+Copyright (C) 2023-2025  Runout Studio™
+
+This program is free software: you can redistribute it and/or modify\
+it under the terms of the **GNU Affero General Public License** as published\
+by the Free Software Foundation, either version 3 of the License, or\
+any later version.
+
+This program is distributed in the hope that it will be useful,\
+but WITHOUT ANY WARRANTY; without even the implied warranty of\
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.\
+See the **[GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.html)** for more details.
+
+You should have received a copy of the GNU Affero General Public License\
+along with this program.  If not, see <https://www.gnu.org/licenses/>.\
+*The license does not cover to any game within creation inside the game engine.*
 
 See [LICENSE](LICENSE) for full terms.
