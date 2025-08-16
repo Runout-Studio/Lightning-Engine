@@ -14,7 +14,7 @@ CMake-powered game engine, running on Vulkan API with the idea of **Sub-Engine**
 > **Sub-Engine** is the standalone programs that can use as sigular program and/or component for main engine.
 
 To clone repossitory, you can do it by:\
-``git clone https://github.com/Runout-Studio/Lightning-Engine-Bare-Bone.git``
+``git clone https://github.com/Runout-Studio/Lightning-Engine.git``
 
 ## Our goal
 Our goal is to make the game engine that be accessible for beginners and high-skill programmers.\
