@@ -28,10 +28,10 @@ Our goal is including:
 
 ## Progression (2D Rendering)
 - [ ] Lightning Engine (Main engine, Editor)
-- [ ] Canvastist (Scene and Camera handler sub-engine)
-- [ ] ProPost2D (2D Post Process sub-engine)
-- [ ] Vectory2D (Vector2D and Physic handler sub-engine)
-- [ ] CSPE (Audio sub-engine)
+- [ ] Sceneful (Scene and Camera handler sub-engine)
+- [ ] DecorisP (2D Post Process sub-engine)
+- [ ] Vectory2D (2D Physic handler sub-engine)
+- [ ] Central Sound Processor Engine (Audio sub-engine)
 - [ ] Asset Manager
 > Subjects above may change in the future.
 
