@@ -1,9 +1,19 @@
-# Vectory2D
+# Motus2D
 2D Physics Engine for Lightning Engine and Educational Perpose.
 
 > [!CAUTION]
-> During it being in-development, **Vectory2D** might not being on stable build.\
+> During it being in-development, **Motus2D** might not being on stable build.\
 > And the engine have not test anywhere else, Please proceed with caution.
+
+## About
+
+Introducing **Motus2D**, 2D Physics processor for Education.\
+Capability of basic 2-Dimensional Physics to advanced 2-Dimensional physics.
+
+Feel free to contribute the repository!
+
+**Motus2D** is also a Sub-Engine(Important) for Lightning Engine to bring a living world to the games.\
+More infomation about [Lightning Engine](README.md).
 
 ## License
 

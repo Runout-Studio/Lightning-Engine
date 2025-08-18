@@ -30,7 +30,7 @@ Our goal is including:
 - [ ] Lightning Engine (Main engine, Editor)
 - [ ] Sceneful (Scene and Camera handler sub-engine)
 - [ ] DecorisP (2D Post Process sub-engine)
-- [ ] Vectory2D (2D Physic handler sub-engine)
+- [ ] Motus2D (2D Physic handler sub-engine)
 - [ ] Central Sound Processor Engine (Audio sub-engine)
 - [ ] Asset Manager
 > Subjects above may change in the future.
