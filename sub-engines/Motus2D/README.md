@@ -39,6 +39,6 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.\
 See the **[GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.html)** for more details.
 
 You should have received a copy of the GNU Affero General Public License\
-along with this program.  If not, see <https://www.gnu.org/licenses/>.\
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 See [LICENSE](sub-engines/Motus2D/LICENSE) for full terms.
