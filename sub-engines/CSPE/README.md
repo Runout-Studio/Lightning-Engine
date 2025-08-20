@@ -19,7 +19,7 @@ Some feature will include in future.
  
 ## License
 
-**Lightning Engine™**; The Game Engine include but not limit for education and entertainment\
+**Central Sound Processor Engine™**; The Audio Processor include but not limit for entertainment\
 Copyright (C) 2023-2025  Runout Studio™
 
 This program is free software: you can redistribute it and/or modify\
@@ -33,7 +33,6 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.\
 See the **[GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.html)** for more details.
 
 You should have received a copy of the GNU Affero General Public License\
-along with this program.  If not, see <https://www.gnu.org/licenses/>.\
-*The license does not cover to any game within creation inside the game engine.*
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-See [LICENSE](LICENSE) for full terms.
+See [LICENSE](sub-engines/CSPE/LICENSE) for full terms.

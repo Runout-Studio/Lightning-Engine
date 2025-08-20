@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/mnt/sba/Lightning-Engine",
-      "program": "/mnt/sba/Lightning-Engine/build/Debug/outDebug",
+      "cwd": "/mnt/sba/Lightning-Engine/sub-engines/Motus2D/Library",
+      "program": "/mnt/sba/Lightning-Engine/sub-engines/Motus2D/Library/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

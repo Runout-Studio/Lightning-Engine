@@ -10,14 +10,22 @@
 Introducing **Motus2D**, 2D Physics processor for Education.\
 Capability of basic 2-Dimensional Physics to advanced 2-Dimensional physics.
 
+**Motus2D** interface runs via Electron 27 and Graph display build-in.
+
 Feel free to contribute the repository!
 
 **Motus2D** is also a Sub-Engine(Important) for Lightning Engine to bring a living world to the games.\
 More infomation about [Lightning Engine](README.md).
 
+## Directory
+
+[~/Library](sub-engines/Motus2D/Library): Provide C++ library, neccessary for Vector2D maths.\
+[~/Component](sub-engines/Motus2D/Components): Neccessary User Interface components.\
+[~/Source](sub-engines/Motus2D/Source): Main source code for everything.
+
 ## License
 
-**Lightning Engine™**; The Game Engine include but not limit for education and entertainment\
+**Motus2D™**; Vector2D physics simulation engine include but not limit for education\
 Copyright (C) 2023-2025  Runout Studio™
 
 This program is free software: you can redistribute it and/or modify\
@@ -32,6 +40,5 @@ See the **[GNU Affero General Public License](https://www.gnu.org/licenses/agpl-
 
 You should have received a copy of the GNU Affero General Public License\
 along with this program.  If not, see <https://www.gnu.org/licenses/>.\
-*The license does not cover to any game within creation inside the game engine.*
 
-See [LICENSE](LICENSE) for full terms.
+See [LICENSE](sub-engines/Motus2D/LICENSE) for full terms.
